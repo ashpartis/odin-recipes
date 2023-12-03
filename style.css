@@ -1,4 +1,10 @@
+/* all */
+* {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+h1 {text-align: center;}
+
 /* index */
+#index {text-align: center;}
 
 /* Brownies */
 
@@ -6,6 +12,7 @@
 
 /* Cake */
 
-* {font-family: Verdana, Geneva, Tahoma, sans-serif;}
-
-.photo {width: 600px; height: auto}
+img {width: 600px; 
+    height: auto; 
+    display: flex;
+    justify-content: center;}
