@@ -1,16 +1,11 @@
-/* all */
 * {font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
-h1 {text-align: center;}
+h1 {text-align: center}
+
+h1, h2 {background-color: rgb(164, 104, 93); color: rgb(217, 141, 68);}
 
 /* index */
 #index {text-align: center;}
-
-/* Brownies */
-
-/* Cookies */
-
-/* Cake */
 
 img {width: 600px; 
     height: auto; 
